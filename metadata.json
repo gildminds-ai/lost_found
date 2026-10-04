@@ -1,0 +1,8 @@
+{
+  "name": "Rent & Reuse",
+  "description": "Modern college item rental web app for students to borrow, rent, or lend campus essentials like drafter kits, calculators, lab coats, and books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
